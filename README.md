@@ -25,6 +25,10 @@ WASSERSTOFF ASSIGNMENT
 
 wasserstoff-assignment-by-versha.netlify.app
 
+**Video Link....**
+
+ https://youtu.be/jkhIfiJRjYI
+
 **Approach...**
 
 I had go through the design and get how to implement the basic structure and design using css(Casecading Style Sheets).Using React-router-dom i had done Navbar to navigate the components then i have created individual components for reuseability. after that i focused on how to implement a map using react-simple-map go through the react simple map and design and implement step by step as such possible. After that i thought about how to implement graphs like Bar chart , bubble chart and scatter charts i had read about on how to implement and apply on my project so i done using ApexChart library,react charts and i implemented the bubble chart using JSX and css.
