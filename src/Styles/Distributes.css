@@ -1,0 +1,41 @@
+.distributes {
+    width: 100%;
+    color: #383874;
+}
+.earning-purchases{
+    display: flex;
+    align-items: center;
+    padding: 0%;
+}
+.totallearnicon {
+    height: 45px;
+    width: 45px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  }
+  .total-earn {
+    font-size: 18px;
+    padding-left: 25px;
+}
+.heading {
+    font-family: Roboto;
+    font-weight: 400;
+    letter-spacing: 0.43px;
+  }
+  .count{
+    font-family: poppins;
+    font-weight: 600;
+    margin-top: -15px;
+  }
+  .heading:hover {
+    text-decoration: 2px underline  rgb(10, 136, 247)
+  }
+  .count:hover{
+    text-decoration: 2px underline  rgb(10, 136, 247)
+  }
+  .totallearnicon:hover {
+    border: 2px solid  rgba(140, 10, 247, 0.434);
+  }
+  

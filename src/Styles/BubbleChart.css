@@ -1,0 +1,129 @@
+.bubblechart {
+  height: 50vh;
+  width: 60vw;
+  position: absolute;
+  right: 14%;
+  top: 20%;
+  border-radius: 18px;
+  background-color: #ffff;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.august {
+  height: 50%;
+  width: 23%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -300px;
+  margin-left: 350px;
+  background-color: rgba(73, 28, 209, 0.714);
+  border-radius: 50%;
+  color: azure;
+}
+.april{
+    height: 30%;
+  width: 14%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -100px;
+  margin-left: 260px;
+  background-color: rgba(243, 108, 124, 0.772);
+  border-radius: 50%;
+  color: azure;
+}
+.Oct{
+    height: 28%;
+  width: 13%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -90px;
+  margin-left: 660px;
+  background-color: rgba(230, 230, 28, 0.706);
+  border-radius: 50%;
+  color: azure;
+}
+.may{
+    height: 15%;
+  width: 7%;
+  margin-top: 58px;
+  margin-left: 350px;
+  background-color: rgba(230, 230, 28, 0.706);
+  border-radius: 50%;
+  
+}
+.jan{
+    height: 6%;
+  width: 3%;
+  margin-top: -140px;
+  margin-left: 200px;
+  background-color: rgba(230, 230, 28, 0.706);
+  border-radius: 50%;
+  
+}
+
+
+.feb{
+    height: 6%;
+    width: 3%;
+    margin-top: 10px;
+    margin-left: 100px;
+  background-color: rgba(73, 28, 209, 0.714);
+  border-radius: 50%;
+}
+.mar{
+    height: 3%;
+    width: 1.5%;
+    margin-top: 6px;
+    margin-left: 160px;
+  background-color: rgba(73, 28, 209, 0.714);
+  border-radius: 50%;
+}
+.july{
+    height: 3%;
+    width: 1.5%;
+    margin-top: 69px;
+    margin-left: 560px;
+  background-color: rgba(73, 28, 209, 0.714);
+  border-radius: 50%;
+}
+.jun{
+    height: 3%;
+    width: 1.5%;
+    margin-top: -206px;
+    margin-left: 690px;
+  background-color: rgba(73, 28, 209, 0.714);
+  border-radius: 50%;
+}
+.sep{
+    height: 10.2%;
+    width: 5%;
+    margin-top: -106px;
+    margin-left: 600px;
+  background-color: rgba(73, 28, 209, 0.714);
+  border-radius: 50%;
+}
+.nov{
+    height: 10.2%;
+    width: 5%;
+    margin-top: -6px;
+    margin-left: 650px;
+  background-color:rgba(243, 108, 124, 0.772);
+  border-radius: 50%;
+}
+.dec{
+    height: 4%;
+    width: 2%;
+    margin-top: 69px;
+    margin-left: 600px;
+  background-color:rgba(243, 108, 124, 0.772);
+  border-radius: 50%;
+}
+.bubblechart :hover{
+   border: 1px solid rgb(135, 43, 188);
+   border-radius: 18px;
+}

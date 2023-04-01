@@ -1,0 +1,48 @@
+.sales {
+  color: #383874;
+  font-weight: 600;
+  font-size: 15px;
+}
+.figer {
+  font-size: 14px;
+}
+.sales-figer {
+  width: 100px;
+  text-align: center;
+  color: #383874;
+  margin-top: -10px;
+}
+.barchart {
+  height: 53px !important;
+  width: 80%;
+  display: flex;
+  background: white;
+  position: absolute;
+  bottom: 3rem;
+  left: 10%;
+  border-radius: 10px;
+}
+.graph {
+  display: flex;
+}
+.underline {
+  position: absolute;
+  bottom: 4px;
+  height: 5px;
+  width: 92%;
+  background: linear-gradient(90deg, #ffa63f 20%, #ff708b 70%, #8676ff 30%);
+}
+.underline:hover {
+  border: 2px solid rgb(10, 136, 247);
+  border-radius: 2px;
+}
+.barchart:hover{
+    border: 2px solid rgb(10, 136, 247);
+    border-radius: 5px;
+}
+.sales:hover {
+    text-decoration: 2px underline rgb(10, 136, 247);
+  }
+.figer:hover {
+    text-decoration: 2px underline rgb(10, 136, 247);
+  }

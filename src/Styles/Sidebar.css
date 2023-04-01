@@ -1,0 +1,52 @@
+.wstffront{
+    font-weight: 600;
+    font-size: 15px;
+    color: rgb(68, 68, 68);
+}
+.sidebar {
+    position: absolute;
+    top: 70px;
+    min-height: 80vh;
+    width: 35%;
+    padding-left: 4%;
+    height: 720px;
+}
+.sidebar_first{
+    color: #383874;
+}
+.users {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 1000;
+    line-height: 32px;
+    margin-top: 40px;
+}
+span {
+    font-family: Roboto;
+    padding-top: 10px;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.7px;
+    margin-left: 16px;
+  }
+  .total {
+    font-size: 45px;
+    font-weight: 600;
+    letter-spacing: -1.75px;
+    margin-top: -28px;
+  }
+  .percentage-circle {
+    height: 12vh;
+    width: 400px;
+    display: flex;
+    margin-top: 45px;
+}
+.wstffront:hover{
+   text-decoration: 2px underline  rgb(10, 136, 247);
+}
+.users:hover{
+    text-decoration: 2px underline  rgb(10, 136, 247);
+}
+.total:hover {
+    text-decoration: 2px underline  rgb(10, 136, 247);
+  }
